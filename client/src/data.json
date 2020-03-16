@@ -1,0 +1,485 @@
+{
+    "aboutYouControls": {
+        "title": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "first_name": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 3,
+                "isRequired": true
+            }
+        },
+        "last_name": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 3,
+                "isRequired": true
+            }
+        },
+        "gender": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "date_of_birth": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDate": true
+            }
+        },
+        "marital_status": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "employment_status": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isDropdown": true,
+                "isRequired": true
+            }
+        },
+        "occupation": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 2,
+                "isRequired": true
+            }
+        },
+        "telephone": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isPhoneNumber": true,
+                "isRequired": true
+            }
+        },
+        "email": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isEmail": true
+            }
+        },
+        "first_buyer": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "motor_convic": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        }
+    },
+    "addressControls": {
+      "address": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+            "isRequired": true
+        }
+      },
+      "address_results": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      },
+      "alter_address": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      },
+      "address_line_1": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      },
+      "address_line_2": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      },
+      "town": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      },
+      "county": {
+        "value": "",                               
+        "touched": "false",
+        "valid": "false",
+        "validationRules": {
+          "isRequired": true
+        }
+      }
+    },
+    "propertyControls": {
+        "own_prop": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "lives_in_prop": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "holiday_home": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "property_type": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "year_built": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isYear": true
+            }
+        },
+        "bedrooms": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "bathrooms": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "heating": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "burgler_alarm": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "smoke_alarm": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "security_locks": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "basement": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "roof_type": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "roof_material": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "extension": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+        }
+        },
+        "ex_roof_type": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "ex_roof_material": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true,
+                "isDropdown": true
+            }
+        },
+        "occupied": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "smokers": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "subsidence": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "flooding": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "neighbour": {
+            "value": "",                               
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        }
+    },
+    "coverControls": {
+        "policy_start": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isDate": true,
+                "isRequired": true
+            }
+        },
+        "build_cover": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isBuildCover": true,
+                "isRequired": true
+            }
+        },
+        "con_cover": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isContentsCover": true,
+                "isRequired": true
+            }
+        },
+        "vol_excess": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isExcessCover": true,
+                "isRequired": true
+            }
+        },
+        "acc_damage": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        },
+        "pre_insured": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isRequired": true
+            }
+        }
+    },
+    "oldCoverControls": {
+        "policy_end": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isDate": true,
+                "isRequired": true
+            }
+        },
+        "pre_insurance": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 3,
+                "isRequired": true
+            }
+        },
+        "policy_num": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 2,
+                "isRequired": true
+            }
+        },
+        "years_pre_insurer": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 1,
+                "isRequired": true
+            }
+        },
+        "no_claims": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "minLength": 1,
+                "isRequired": true
+            }
+        }
+    },
+    "termsControls": {
+        "privacy_policy": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isChecked": true,
+                "isRequired": true
+            }
+        },
+        "offers": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isChecked": true,
+                "isRequired": true
+            }
+        },
+        "terms": {
+            "value": "",                                 
+            "touched": "false",
+            "valid": "false",
+            "validationRules": {
+                "isChecked": true,
+                "isRequired": true
+            }
+        }
+    }
+}

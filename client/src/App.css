@@ -1,0 +1,382 @@
+.cardContain{
+  padding-left: 100px;
+}
+.progressMargin{
+  margin-top: 50px;
+}
+.noMargin{
+  margin-top: 0px;
+}
+.cardHeaders{
+  background-color: #F6F9ED !important;
+}
+.helpButton{
+  background-color: white !important;
+  border-radius: 8px !important;
+  color: #95c028 !important;
+  border: 0px !important;
+  margin-top: 14px !important;
+  font-size: 18px !important;
+}
+.helpButton:hover {
+  color: white !important;
+  background-color: #95c028 !important;
+}
+.helpButtonQuestions{
+  margin-top: 30px !important;
+}
+.helpButtonSelect{
+  margin-top: 0px !important;
+}
+.helpTextBox{
+  background-color: #F6F9ED !important; 
+}
+.popoverSize{
+  max-width:420px !important;
+}
+.inputMargin{
+  margin-top: 0px !important;
+}
+.selectMargin{
+  margin-top: 10px !important;
+}
+/* ///////////// About You Css ////////////// */
+.ynButtonIcon {
+  margin-right: 10px !important;
+}
+.ynButton{
+  margin-top: 8px;
+  margin-right: 15px;
+  background-color: white !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: #95c028 !important;
+  border: 3 !important;
+  border-color: #95c028 !important;
+}
+.ynButton:hover {
+  color: white !important;
+  background-color: #95c028 !important;
+}
+.ynButtonClicked{
+  margin-top: 10px;
+  margin-right: 15px;
+  background-color: #95c028 !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 3 !important;
+  border-color: #95c028 !important;
+}
+.textButton{
+  margin-top: 10px;
+  margin-right: 15px;
+  background-color: white !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 18px !important;
+  color: #95c028 !important;
+  border: 3 !important;
+  border-color: #95c028 !important;
+}
+.textButton:hover{
+  color: white !important;
+  background-color: #95c028 !important;
+}
+.textButtonClicked{
+  margin-top: 10px;
+  margin-right: 15px;
+  background-color: #95c028 !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 3 !important;
+  border-color: #95c028 !important;
+}
+.ynQuestion{
+  font-size: 16px;
+  margin-top: 30px;
+}
+.continueButton{
+  margin-top: 40px;
+  background-color: #95c028 !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 0px !important;
+  border-color: #95c028 !important;
+  float: right;
+}
+.continueButton:hover {
+  opacity: 60%;
+  color: white;
+}
+.continueMargin{
+  margin-right: 165px;
+}
+
+/* //////////// Address Css /////////////// */
+.searchButton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #95c028 !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: white !important;
+  border: 0px !important;
+  border-color: #95c028 !important;
+}
+
+/* ////////////// Terms & Conditions Css ////////////////  */
+.termsBox {
+  background-color: #F6F9ED !important;
+  border-radius: 4px;
+  border: 1px solid #e3e3e3;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  margin-top: 50px;
+}
+.termsDes {
+  font-size: 14px;
+  margin-bottom: 8px;
+  margin-top: 1px;
+}
+.termsConBox {
+  text-align: right;
+  padding-top: 10px;
+  /*padding-bottom: 20px; */
+}
+/* ///////////////// Submit Button Css ///////////// */
+.submitButton {
+  background-color: #95c028 !important;
+  border: 0px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.submitButton:hover {
+  opacity: 80%;
+}
+
+/* ///////////// Validation Css ////////////// */
+.validationHelpText{
+  color: #f44336 !important;
+  font-size: 13px !important;
+  margin-bottom: 15px !important;
+  font-weight: bold !important;
+}
+.valAlerts{
+  font-size: 14px !important;
+}
+.hide{
+  display:none;
+}
+
+
+/* //////////// Nav Bar Css //////////////// */
+.campionImage {
+  margin-top: 25px;
+}
+.navPhoneSearch {
+  float: right;
+}
+.mobile {
+  padding-right: 0px !important;
+}
+.mobileNumber {
+  padding-left: 2px !important;
+}
+.navPhone {
+  color: #777;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.navSearch {
+  border-radius: 8px !important;
+  border-color: #19206f !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 13px !important;
+}
+.navLinkText {
+  color: #777;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+.navLinkText:hover {
+  background-color: #95c028;
+  border-radius: 5px;
+  color: white;
+}
+.navButtons {
+  background-color: #95c028 !important;
+  border-radius: 8px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  color: white !important;
+  margin-left: 3px !important;
+  border: 0px !important;
+}
+.navButtons:hover {
+  opacity: 60%;
+  color: white;
+}
+.navButtons-right {
+  float: right;
+}
+.navButtonPic {
+  padding-right: 5px;
+}
+.navigatebar {
+  border-bottom: 1px solid #333;
+}
+.navMargin {
+  margin-bottom: 10px;
+}
+.miniHouse {
+  display: inline;
+  padding-right: 5px;
+  margin-bottom: 2px;
+}
+.formMiniTitle {
+  color: #787878;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  display: inline;
+}
+.formTitle {
+  color: #95c028;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px !important;
+  margin-bottom: 30px !important;
+}
+
+/* ////////////// Footer Css ///////////// */
+.footerLinks {
+  background-color: #2d3237;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 30px;
+}
+.footerTitles {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.footerTextLinks {
+  color: #8f9397;
+  font-size: 14px;
+  border-bottom: 1px solid #3e464e;
+  padding-left: 2px !important;
+  margin-right: 30px !important;
+}
+.footerTextLinks:hover {
+  background-color: #23282d;
+  color: #8f9397;
+  transition-timing-function: ease;
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-delay: 0s;
+}
+.footerNewsLetter {
+  background-color: #2d3237 !important;
+  border: 1px solid #566c83 !important;
+  border-radius: 2px !important;
+  color: #fff !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important;
+}
+.footerNewsLetterButton {
+  background-color: #566c83 !important;
+  border-radius: 1px !important;
+}
+.footerTermsCon {
+  background-color: #23282d;
+  font-family: 'Open Sans', sans-serif;
+}
+.footerTermsCenter {
+  color: #dadada;
+  font-size: 17px;
+  text-align: center;
+  padding-top: 20px;
+}
+.footerTermsSmall {
+  color: #dadada;
+  font-size: 14px;
+}
+
+/* //////////////  Css ///////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ////////////// Original React Css ////////////// */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
